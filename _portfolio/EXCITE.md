@@ -14,7 +14,7 @@ EXCITE is a collaboration between NASA Goddard Space Flight Center, Brown Univer
 
 EXCITE successfully completed an engineering flight on August 31, 2024. 
 
-[Read more about EXCITE here](https://science.nasa.gov/missions/scientific-balloons/nasas-excite-mission-prepared-for-scientific-balloon-flight/)
+[Read more about the EXCITE engineering campaign here](https://science.nasa.gov/missions/scientific-balloons/nasas-excite-mission-prepared-for-scientific-balloon-flight/)
 
 ![Photograph of EXCITE Field Team prior to the 2024 Engineering Flight](/images/excite/excite-group.jpg)
 The EXCITE Field Team 2024. From L to R: Lee Bernard, Annalies Kleyheeg, Gregory Tucker, Steve Maher, Peter Nagler, Tim Rehm, Khing Klangboonkrong, Kyle Helson, Javier Romualdez.
@@ -24,3 +24,15 @@ The EXCITE Field Team 2024. From L to R: Lee Bernard, Annalies Kleyheeg, Gregory
 Photograph of EXCITE on the NASA CSBF Launch Vehicle prior to the 2024 Engineering Flight
 
 Here is a video of the [EXCITE engineering flight launch](https://youtu.be/gyccHyHTNWM)
+
+
+==== 
+EXCITE Publications
+(not an exhaustive list)
+
+[Overview EXCITE Paper - 2022](/files/excite2022.pdf)
+[EXCITE Cryogenic Receiver - 2022](/files/excite-cryo.pdf) 
+[EXCITE Cryogenic Receiver - 2024](/files/excite-cryo2.pdf)
+[EXCITE Spectrograph Design](/files/excite-spectrograph.pdf)  
+[EXCITE Pointing System Performance](/files/excite-pointing.pdf)
+
