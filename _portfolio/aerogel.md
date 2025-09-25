@@ -10,6 +10,6 @@ The filters are low emissivity and have cutoff frequencies that can be tuned via
 
 These filters are a collaboration between NASA Goddard Space Flight Center and NASA Glenn Research Center.
 
-For more information see: https://arxiv.org/abs/2401.16364 and https://arxiv.org/abs/2508.20406
+For more information see: [Fabrication, modeling, and characterization](https://arxiv.org/abs/2401.16364) and [Designing for specific missions, cryogenic testing, and emissivity measurements](https://arxiv.org/abs/2508.20406)
 
-![Photograph and micrograph of a diamond-loaded polyimide aerogel filter](images/loaded-aerogel-composite.jpg) "Diamond loaded polyimide aerogel filter")
+![Photograph and micrograph of a diamond-loaded polyimide aerogel filter](images/loaded-aerogel-composite.jpg)
