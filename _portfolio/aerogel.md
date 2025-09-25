@@ -4,4 +4,4 @@ about: "Low reflectivity, cryogenically compatible, polymer-based filters."
 
 ---
 
-::Insert image of aerogel filter here::
+I need to put an image here.
