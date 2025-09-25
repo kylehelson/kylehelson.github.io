@@ -6,7 +6,7 @@ about: "Low reflectivity, cryogenically compatible, polymer-based filters."
 
 Diamond-loaded polyimide aerogel filters reject high-frequency infrared light by scattering the light away from the optical path. The desired low-frequency light is passed by the filter. These filters are designed to be used in systems that observer from ~10 GHz up to above 10 THz. 
 
-The filters are low emissivity and have cutoff frequencies that can be tuned via the adding different amounts of specific sizes of diamond particles. One major benefit to these filters when compared to other optical elements is that they have a index of refraction less than 1.1, so the reflections are quite low, and thus they do not need to be AR-coated. We have successfully manufactured aerogel filters that are ~40 cm in diameter.
+The filters are low emissivity and have cutoff frequencies that can be tuned via the adding different amounts of specific sizes of diamond particles. One major benefit to these filters when compared to other optical elements is that they have a index of refraction less than 1.1, so the reflections are quite low, and thus they do not need to be AR-coated. We have successfully manufactured aerogel filters that are approximately 40 cm in diameter.
 
 ![Measured transmission data for a variety of aerogel filters](/images/aerogel/ssolve.png)
 Measured transmission data for a variety of aerogel filters with different sized diamond particles.
