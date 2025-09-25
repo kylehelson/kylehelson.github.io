@@ -28,8 +28,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Research Scientist at The University of Maryland - Baltimore County and NASA Goddard Space Flight Center"
   location         : "Earth"
-  employer         : "The University of Maryland - Baltimore County (UMBC)"
-  uri              : # URL
+  employer         : "CRESSTII - UMBC"
+  uri              : "https://csst.umbc.edu/"
   email            : "khelson@umbc.edu" 
 
   # Academic websites
