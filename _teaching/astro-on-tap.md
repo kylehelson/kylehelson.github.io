@@ -1,4 +1,3 @@
-
 ---
 title: "Observing the Edge of the Universe from the End of the Earth "
 type: "Public talk"
