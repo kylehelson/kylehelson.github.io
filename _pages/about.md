@@ -8,4 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello world!
+I am an Assistant Research Scientist at Center for Space Sciences and Technology (CSST) at The University of Maryland Baltimore County (UMBC). 
+
+I am primarily focused on developing hardware and instrumentation for far-infrared through microwave missions. 
+
+My work with UMBC is primariy within the Center for Research and Exploration in Space Science & Technology II (CRESST II) cooperative agreement between the CRESST II consortium and NASA’s Goddard Space Flight Center (GSFC).
