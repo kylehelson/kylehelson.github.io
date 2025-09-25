@@ -5,3 +5,4 @@ venue: "Brown University Physics Department"
 date: 2015-2016
 location: "Providence, RI"
 ---
+Lead undergraduate students through basic astrnomy labs including basic astrometry, observations using a 12" optical telescope, image and data analysis, and presenting scientific data.
