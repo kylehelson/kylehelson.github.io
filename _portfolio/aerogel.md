@@ -1,7 +1,7 @@
 ---
 title: "Aerogel-based Filters for Space Science Missions"
 about: "Low reflectivity, cryogenically compatible, polymer-based filters."
-date: "2020-01-01"
+
 ---
 
 Diamond-loaded polyimide aerogel filters reject high-frequency infrared light by scattering the light away from the optical path. The desired low-frequency light is passed by the filter. These filters are designed to be used in systems that observer from ~10 GHz up to above 10 THz. 
