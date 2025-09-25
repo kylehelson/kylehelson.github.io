@@ -8,6 +8,8 @@ Diamond-loaded polyimide aerogel filters reject high frequency infrared light by
 
 The filters are low emissivity and have cutoff frequencies that can be tuned via the adding different amounts of specific sizes of diamond particles. 
 
+These filters are a collaboration between NASA Goddard Space Flight Center and NASA Glenn Research Center.
+
 For more information see: https://arxiv.org/abs/2401.16364 and https://arxiv.org/abs/2508.20406
 
 ![Photograph and micrograph of a diamond-loaded polyimide aerogel filter](images/loaded-aerogel-composite.jpg) "Diamond loaded polyimide aerogel filter")
