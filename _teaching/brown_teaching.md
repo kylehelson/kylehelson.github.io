@@ -6,3 +6,13 @@ year: "2015"
 location: "Providence, RI"
 ---
 Lead undergraduate students through basic astrnomy labs including basic astrometry, observations using a 12" optical telescope, image and data analysis, and presenting scientific data.
+
+
+
+---
+title: "Brown Unviersity Summer@Brown Astronomy and Cosmology Courses"
+type: "High school summer course"
+venue: "Brown University Physics Department"
+year: "2015"
+location: "Providence, RI"
+---
