@@ -26,7 +26,7 @@ Photograph of EXCITE on the NASA CSBF Launch Vehicle prior to the 2024 Engineeri
 Here is a video of the [EXCITE engineering flight launch](https://youtu.be/gyccHyHTNWM)
 
 
-##### EXCITE Publications
+### EXCITE Publications
 (not an exhaustive list)
 
 * [Overview EXCITE Paper - 2022](/files/excite2022.pdf)
