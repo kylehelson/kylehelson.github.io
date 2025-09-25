@@ -1,4 +1,3 @@
-
 ---
 title: "Brown Unviersity Summer@Brown Astronomy and Cosmology Courses"
 type: "High school summer course"
