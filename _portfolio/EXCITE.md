@@ -13,10 +13,11 @@ EXCITE leverages a flight-spare JWST NIRSpec H2RG and MACIE readout electronics 
 EXCITE is a collaboration between NASA Goddard Space Flight Center, Brown University, Arizona State University, La Sapienza Universita di Roma, StarSpec Technologies, Oxford University, Cornell University, and University College London. 
 
 EXCITE successfully completed an engineering flight on August 31, 2024. 
+
 [Read more about EXCITE here](https://science.nasa.gov/missions/scientific-balloons/nasas-excite-mission-prepared-for-scientific-balloon-flight/)
 
 ![Photograph of EXCITE Field Team prior to the 2024 Engineering Flight](/images/excite/excite-group.jpg)
-
+The EXCITE Field Team 2024. From L to R: Lee Bernard, Annalies Kleyheeg, Gregory Tucker, Steve Maher, Peter Nagler, Tim Rehm, Khing Klangboonkrong, Kyle Helson, Javier Romualdez.
 
 ![Photograph of EXCITE on the NASA CSBF Launch Vehicle prior to the 2024 Engineering Flight](/images/excite/FTS2024-376.jpg)
 
