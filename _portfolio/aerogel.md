@@ -8,7 +8,7 @@ Diamond-loaded polyimide aerogel filters reject high-frequency infrared light by
 
 The filters are low emissivity and have cutoff frequencies that can be tuned via the adding different amounts of specific sizes of diamond particles. One major benefit to these filters when compared to other optical elements is that they have a index of refraction less than 1.1, so the reflections are quite low, and thus they do not need to be AR-coated. 
 
-![Measured transmission data for a variety of aerogel filters](/images/aerogel/ssolve.jpg)
+![Measured transmission data for a variety of aerogel filters](/images/aerogel/ssolve.png)
 Measured transmission data for a variety of aerogel filters with different sized diamond particles.
 
 These filters are a collaboration between NASA Goddard Space Flight Center and NASA Glenn Research Center.
