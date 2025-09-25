@@ -1,9 +1,7 @@
 ---
-title: #"Teaching experience 1"
-collection: #teaching
-type:# "Undergraduate course"
-permalink:# /teaching/2014-spring-teaching-1
-venue:# "University 1, Department"
-date:# 2014-01-01
-location: #"City, Country"
+title: "Brown Unviersity Astronomy Laboratory Teaching Assistant"
+type: "Undergraduate course"
+venue: "Brown University Physics Department"
+date: 2015-2016
+location: "Providence, RI"
 ---
