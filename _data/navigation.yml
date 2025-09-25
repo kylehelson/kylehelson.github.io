@@ -15,7 +15,10 @@ main:
     url: /talks/    
 
   - title: "Teaching and Outreach"
-    url: /teaching/        
+    url: /teaching/   
+
+  - title: "Resources"
+    url: /resources/     
 
   - title: "CV"
     url: /files/HelsonCV.pdf
