@@ -1,7 +1,7 @@
 ---
 title: "The Exoplanet Climate Infrared Telescope (EXCITE)"
 about: "A balloon-borne hot-Jupiter phase curve spectrograph from 1-4 microns"
-
+date: "2020-01-01"
 ---
 
 EXCITE is a balloon-borne instrument that will measure spectroscopic phase curves of hot Jupiter-type exoplanets. Phase curve measurements can be used to characterize an exoplanet's atmospheric composition and energy circulation patterns. EXCITE carries a 0.5 m primary mirror and moderate resolution diffraction-limited spectrograph with spectral coverage from 0.8 - 3.5 microns. EXCITE is designed to fly on a long-duration balloon (LDB) mission from Antarctica. EXCITE will observe through the peak of a target's spectral energy distribution (SED) and through spectral signatures of hydrogen and carbon-containing molecules. 
