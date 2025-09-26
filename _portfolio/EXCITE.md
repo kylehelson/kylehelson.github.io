@@ -27,7 +27,7 @@ Here is a video of the [EXCITE engineering flight launch](https://youtu.be/gyccH
 
 [The NASA Science EXCITE Webpage](https://science.nasa.gov/mission/excite/)
 
-## EXCITE Publications
+# EXCITE Publications
 (not an exhaustive list)
 
 * [Overview EXCITE Paper - 2022](/files/excite2022.pdf)
