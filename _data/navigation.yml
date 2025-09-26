@@ -18,10 +18,10 @@ main:
     url: /files/HelsonCV.pdf
 
   - title: "Resources"
-    url: /resources/     
-    - title: "Teaching and Outreach"
+    url: /resources/    
+    
+  - title: "Teaching and Outreach"
     url: /teaching/  
-
     
   # - title: "CV"
   #   url: /cv-json/
