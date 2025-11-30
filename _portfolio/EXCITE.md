@@ -30,9 +30,9 @@ Here is a video of the [EXCITE engineering flight launch](https://youtu.be/gyccH
 # EXCITE Publications
 (not an exhaustive list)
 
-* [Overview EXCITE Paper - 2022](/files/excite2022.pdf)
-* [EXCITE Cryogenic Receiver - 2022](/files/excite-cryo.pdf) 
-* [EXCITE Cryogenic Receiver - 2024](/files/excite-cryo2.pdf)
-* [EXCITE Spectrograph Design](/files/excite-spectrograph.pdf)  
-* [EXCITE Pointing System Performance](/files/excite-pointing.pdf)
+* [Overview EXCITE Paper - 2022](/files/excite/excite2022.pdf)
+* [EXCITE Cryogenic Receiver - 2022](/files/excite/excite-cryo.pdf) 
+* [EXCITE Cryogenic Receiver - 2024](/files/excite/excite-cryo2.pdf)
+* [EXCITE Spectrograph Design](/files/excite/excite-spectrograph.pdf)  
+* [EXCITE Pointing System Performance](/files/excite/excite-pointing.pdf)
 
